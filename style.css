@@ -1,0 +1,31 @@
+body {
+    max-width: 330px;
+    margin: auto;
+    font-family: Arial, sans-serif
+}
+
+pre {
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 5px #eee;
+    padding: 1em;
+}
+
+#qr-code {
+    height: 300px; width: 300px;
+}
+
+#btc-address {
+    padding: 1px;
+}
+
+#btc-address li {
+    display: inline-block;
+    font-size: 14px;
+}
+
+#btc-address a {
+    text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    border-radius: 5px
+}
