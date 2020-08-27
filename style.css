@@ -4,26 +4,26 @@ body {
     font-family: Arial, sans-serif
 }
 
-#shadow-box {
+.shadow-box {
     border: 1px solid #ddd;
     box-shadow: 5px 5px 5px #eee;
     padding: 1em;
 }
 
-#qr-code {
+.qr-code {
     height: 300px; width: 300px;
 }
 
-#btc-address {
+.nav-link {
     padding: 1px;
 }
 
-#btc-address li {
+.nav-link li {
     display: inline-block;
     font-size: 14px;
 }
 
-#btc-address a {
+.nav-link a {
     text-decoration: none;
     background: #eee;
     padding: 5px;
